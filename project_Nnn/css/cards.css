@@ -1,0 +1,26 @@
+body{
+    background-color: #494747;
+}
+.card{
+    height: 480px;
+    width: 300px;
+    background-color: #fff;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+.img{
+    height: 320px;
+    width: 300px;
+    object-fit: cover;
+}
+h3{
+    color: black;
+    font-size: 15px;
+}
